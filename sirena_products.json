@@ -1,0 +1,1406 @@
+{
+  "source": "La Sirena",
+  "total": 200,
+  "products": [
+    {
+      "name": "Cilantrico Por Paquete",
+      "price": "RD$48.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161910/1-und-7468827171458.png?v=639096165707430000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Zanahoria Fresca Lb",
+      "price": "RD$34.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161835/1-lb-02077.png?v=639096165210600000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Ajo Selecto Paquete 4 Uds",
+      "price": "RD$79.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161919/1-und-6954821584253.png?v=639096165754200000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Papas Selectas Lb",
+      "price": "RD$45.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161852/1-lb-01008.png?v=639096165347030000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Cebolla Roja Criolla Lb",
+      "price": "RD$49.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161848/1-lb-01004.png?v=639096165313470000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Limon Persa Lb",
+      "price": "RD$83.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/162702/1-lb-02244.webp?v=639099714020700000",
+      "category": "Frutas Frescas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Queso Mozzarella Wala Barra Lb",
+      "price": "RD$214.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/170234/1-lb-05197.webp?v=639127296022330000",
+      "category": "Quesos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Pan Lumijor Integral Familiar Gourmet",
+      "price": "RD$155.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165560/1-und-7467502800072.jpg?v=639105960121670000",
+      "category": "Pan Molde",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Yuca Parafinada Lb",
+      "price": "RD$39.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161928/1-lb-02296.png?v=639096168014100000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Cilantro Ancho Por Paquete",
+      "price": "RD$48.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/164302/1-und-7468827171465.webp?v=639102525069270000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Aguacate 35% Maduro Por Unidad",
+      "price": "RD$74.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161885/1-und-00003.png?v=639096165535930000",
+      "category": "Frutas Frescas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Pollo Fresco Cibao Empacado Lb",
+      "price": "RD$84.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161857/1-lb-05114.png?v=639096165382370000",
+      "category": "Carne de Pollo",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Yautia Blanca Lb",
+      "price": "RD$78.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161854/1-lb-01010.png?v=639096165360300000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Batata Canolia Lb",
+      "price": "RD$32.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161917/1-lb-01035.png?v=639096165742200000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Aji Morron Amarillo Lb",
+      "price": "RD$79.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161822/1-lb-02287.png?v=639096165092900000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Filete De Pechuga Pollo Cibao Lb",
+      "price": "RD$175.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/170529/1-lb-06003.webp?v=639133347009830000",
+      "category": "Carne de Pollo",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Carne Molida Super Especial 90/10 Lb",
+      "price": "RD$223.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161842/1-lb-05017.png?v=639096165260870000",
+      "category": "Carne de Res",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Leche Listamilk Uht Rica 1 Lt",
+      "price": "RD$74.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/160259/1-und-7460111171137.jpg?v=639090402193400000",
+      "category": "Leche Líquida",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Café Molido Santo Domingo 1 Lb",
+      "price": "RD$420.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157407/1-und-748325000038.jpg?v=639070302714600000",
+      "category": "Café y Té",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Huevos Endy Extra Grande 30 Uds",
+      "price": "RD$295.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/156788/1-und-7468707680261.jpg?v=639065844015170000",
+      "category": "Lácteos y Huevos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Mandarina Importada Lb",
+      "price": "RD$108.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165515/1-lb-04055.webp?v=639105939006700000",
+      "category": "Frutas Frescas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Azucar Crema Wala 5 Lb",
+      "price": "RD$157.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/155788/1-und-2100003039811.jpg?v=639059025021300000",
+      "category": "Azúcar",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Puerro Fino X Paquete",
+      "price": "RD$48.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169666/1-und-7468827171557.webp?v=639124593006430000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Manzana Verde Lb",
+      "price": "RD$98.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/170092/1-lb-02121.webp?v=639125721007000000",
+      "category": "Frutas Frescas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Naranjas Navel Importadas Lb",
+      "price": "RD$88.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169034/1-lb-05542.webp?v=639120714081930000",
+      "category": "Frutas Frescas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Manzana Roja Lb",
+      "price": "RD$78.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/168844/1-lb-02038.png?v=639120712587130000",
+      "category": "Frutas Frescas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Guandules La Famosa 15 Oz",
+      "price": "RD$108.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/168975/1-und-760593023823.jpg?v=639120713218330000",
+      "category": "Legumbres y otros granos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Guandules Con Coco La Famosa 15 Oz",
+      "price": "RD$140.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/168979/1-und-760593023878.jpg?v=639120713236830000",
+      "category": "Legumbres y otros granos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Pan De Agua Buenhorno  10/1",
+      "price": "RD$55.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/170250/10-und-paq-2100002719561.webp?v=639129147057500000",
+      "category": "Pan del día",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Leche Rica La Vaquita 1 Lt",
+      "price": "RD$69.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/168902/1-und-7460111171106.webp?v=639120712870100000",
+      "category": "Leche Líquida",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Pan Blanco Wala Viga Med 820 G",
+      "price": "RD$105.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/167432/1-und-2100002978111.webp?v=639118101006800000",
+      "category": "Pan Molde",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Pasta Spaguettis Milano 400 Gr.",
+      "price": "RD$37.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/167302/1-und-703311234712.webp?v=639117231012970000",
+      "category": "Pasta Larga",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Mayonesa Baldom 16 Oz",
+      "price": "RD$150.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/167645/1-und-787545004402.jpg?v=639118845139500000",
+      "category": "Mayonesa",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Aceite Canola Mas Crisol 64 Oz",
+      "price": "RD$275.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/167050/1-und-7460193703981.jpg?v=639114792361730000",
+      "category": "Aceite Canola",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Arroz Campos Premium 5 Lb",
+      "price": "RD$235.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/166350/1-und-7466555500151.jpg?v=639112078300670000",
+      "category": "Arroz",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Pan Sandwich Mediano Lumijor",
+      "price": "RD$140.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165537/1-und-7467502800294.jpg?v=639105960029700000",
+      "category": "Pan Molde",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Cafe Molido Santo Domingo Brick 8.8 Oz.",
+      "price": "RD$280.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165344/1-und-748325000083.jpg?v=639105870222270000",
+      "category": "Café",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Papel Toalla Reutilizable Wala 80H",
+      "price": "RD$120.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165002/1-und-2100003075567.jpg?v=639105023189030000",
+      "category": "Papel toalla y servilletas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Servilletas Cuadrada 250/1 Wala",
+      "price": "RD$96.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165077/1-und-2100003052995.jpg?v=639105023588400000",
+      "category": "Papel toalla y servilletas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Servilletas Dispenser 500/1 Wala",
+      "price": "RD$96.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165078/1-und-2100003052971.jpg?v=639105023591970000",
+      "category": "Papel toalla y servilletas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Queso Mozarella Sorrento Lb",
+      "price": "RD$295.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/164461/1-lb-08925.jpg?v=639104958143470000",
+      "category": "Quesos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Crema De Leche Wala  200 Ml",
+      "price": "RD$64.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/163077/1-und-8410297604379.jpg?v=639100534850100000",
+      "category": "Crema de leche",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Maiz Dulce Zerca 425 Gr",
+      "price": "RD$55.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/162316/1-und-2100003086594.jpg?v=639096241175900000",
+      "category": "Conserva vegetales & legumbres",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Higado De Pollo Frescos Cibao Lb",
+      "price": "RD$66.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161948/1-lb-06004.png?v=639096183027530000",
+      "category": "Carne de Pollo",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Tayota Lb",
+      "price": "RD$24.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161941/1-lb-02306.png?v=639096180020270000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Lechosa Entera Lb",
+      "price": "RD$20.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161942/1-lb-02255.png?v=639096180025700000",
+      "category": "Frutas Frescas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Lechuga Repollada Lb",
+      "price": "RD$48.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161833/1-lb-02036.png?v=639096165192970000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Brocoli Fresco Lb",
+      "price": "RD$62.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161831/1-lb-02018.png?v=639096165174200000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Bacalao Noruego Lb",
+      "price": "RD$255.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161874/1-lb-05106.png?v=639096165485030000",
+      "category": "Pescados",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Aji Morron Naranja Lb",
+      "price": "RD$79.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/164301/1-lb-02292.webp?v=639102519065530000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Aji Morron Verde Lb",
+      "price": "RD$79.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161817/1-lb-02008.png?v=639096165044430000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Azucar Crema Wala 2 Lb",
+      "price": "RD$72.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/159506/1-und-2100003039798.jpg?v=639087835010900000",
+      "category": "Azúcar",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Caldo De Gallina Doña Gallina 12 Uds",
+      "price": "RD$105.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157497/1-und-7702354250331.jpg?v=639070303062030000",
+      "category": "Sazones",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Habichuelas Rojas Giselle 800 G",
+      "price": "RD$135.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157375/1-und-7465735601008.jpg?v=639070302572000000",
+      "category": "Habichuelas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Avena Quaker Nutremas 618 Gr",
+      "price": "RD$90.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157369/1-und-7462275402652.jpg?v=639070302543330000",
+      "category": "Avenas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Muslo Bate De Pollo Cibao Lb (Ver Mínimo)",
+      "price": "RD$115.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157288/1-lb-05522.jpg?v=639070302193000000",
+      "category": "Carnes",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Aceite Oliva Wala Virgen Extra 750 Ml",
+      "price": "RD$525.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/162046/1-und-2100002981265.jpg?v=639096237482270000",
+      "category": "Aceite Oliva",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Galletas Dulces Oreo Regular 12 Und",
+      "price": "RD$230.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/162503/1-und-7622201383572.jpg?v=639096339107030000",
+      "category": "Galletas Dulces",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Papel Higienico Wala 24 Un",
+      "price": "RD$395.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/164598/1-und-2100002978463.jpg?v=639105019208200000",
+      "category": "Papel Higiénico",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Lavaplatos Limon Zerca 1 Gl",
+      "price": "RD$210.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/160813/1-und-2100002978333.jpg?v=639094581213970000",
+      "category": "Lavaplatos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Papel Higiénico Wala 12 Un",
+      "price": "RD$200.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/164596/1-und-2100002978456.jpg?v=639105019196500000",
+      "category": "Papel Higiénico",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Funda Cocina Negra Paq Zerca 15Un",
+      "price": "RD$49.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/164630/1-und-2100002990427.jpg?v=639105019451730000",
+      "category": "Fundas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Atun En Trozos Wala Agua 170 Gr",
+      "price": "RD$98.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/159450/1-und-2100002979880.jpg?v=639087834808370000",
+      "category": "Conservas de pescado & marisco",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Salami Induveca Estelar 1.47 Lb",
+      "price": "RD$194.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/156919/1-und-7460199599779.jpg?v=639065892016830000",
+      "category": "Salami",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Jugo Rica 100% Naranja Sin Azúcar 59 Oz (1/2 Gl)",
+      "price": "RD$255.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/156274/1-und-790330021225.jpg?v=639062427023930000",
+      "category": "Jugos y néctares",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Jamón Caserio Pechuga De Pavo Lb. (Rebanado)",
+      "price": "RD$415.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/155734/1-lb-08018.jpg?v=639055002031370000",
+      "category": "Jamones",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Queso Pauly Mozzarella Lb",
+      "price": "RD$345.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/155682/1-lb-08712.jpg?v=639053421016600000",
+      "category": "Quesos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Huevos Endy Extra Grande 18 uds.",
+      "price": "RD$189.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/155633/1-und-7468707680643.webp?v=639052518021600000",
+      "category": "Huevos Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Agua Planeta Azul Sab Limon 16.9 Oz",
+      "price": "RD$30.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157021/1-und-701891103022.webp?v=639065943009100000",
+      "category": "Aguas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Arroz Wala Premium 10 Lb",
+      "price": "RD$348.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/155580/1-und-2100003227041.webp?v=639044649028130000",
+      "category": "Arroz",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Sal Refinada Frasco 432 Wala Gr",
+      "price": "RD$34.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169293/1-und-2100002986895.webp?v=639120837065030000",
+      "category": "Especias",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Lentejas Goya 16 Oz",
+      "price": "RD$129.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169118/1-und-041331024761.webp?v=639120828169170000",
+      "category": "Legumbres y otros granos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Uva Roja Lb (Red Globes)",
+      "price": "RD$135.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/168845/1-lb-02072.png?v=639120712591800000",
+      "category": "Frutas Frescas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Leche Parmalat Entera Uht 1 Lt",
+      "price": "RD$79.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/168687/1-und-708236951010.jpg?v=639120711853130000",
+      "category": "Leche Líquida",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Leche Parmalat Semidescremada 1 Lt",
+      "price": "RD$79.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/168865/1-und-7466774656233.jpg?v=639120712679770000",
+      "category": "Leche Líquida",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Pan Sobao Buenhorno 10/1",
+      "price": "RD$69.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/170251/10-und-paq-2050000222726.webp?v=639129150103770000",
+      "category": "Panes y Galletas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Leche Rica Descremada 0% 1 Lt",
+      "price": "RD$79.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/168935/1-und-7460111104111.jpg?v=639120713029130000",
+      "category": "Crema de leche",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Queso gouda holandés Frico lb",
+      "price": "RD$325.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/168621/1-lb-08090.jpg?v=639120711044370000",
+      "category": "Quesos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Maíz Dulce La Famosa 8 Oz",
+      "price": "RD$62.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/168989/1-und-760593023311.jpg?v=639120713292000000",
+      "category": "Conserva vegetales & legumbres",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Queso Gouda Wala 6.6 Lb",
+      "price": "RD$245.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/168837/1-lb-05261.jpg?v=639120712545730000",
+      "category": "Quesos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Naranja De Jugo Lb",
+      "price": "RD$56.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/168842/1-lb-02247.png?v=639120712577930000",
+      "category": "Frutas Frescas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Pera Verde Lb",
+      "price": "RD$88.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/170109/1-lb-02082.webp?v=639125898019730000",
+      "category": "Frutas Frescas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Uva Verde Sin Semilla Lb",
+      "price": "RD$197.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169627/1-lb-02070.webp?v=639124023006470000",
+      "category": "Frutas Frescas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Papa Petite Malla 1 Lb",
+      "price": "RD$34.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/168083/1-und-7461688142636.jpg?v=639119916314100000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Vinagre Dorado Wala  16 Oz",
+      "price": "RD$24.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/168144/1-und-2100003032218.webp?v=639119916595330000",
+      "category": "Vinagres",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Fideos Milano Nido Fino 350 Gr.",
+      "price": "RD$42.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/167353/1-und-703311234743.webp?v=639117243162700000",
+      "category": "Pasta corta",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Desinfectante Lavanda Zerca 2L",
+      "price": "RD$79.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/166534/1-und-2100002976988.jpg?v=639112119010370000",
+      "category": "Cloros y Desinfectantes",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Arroz Pimco Selecto 10 Lbs",
+      "price": "RD$409.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/166370/1-und-6463514500031.jpg?v=639112078391130000",
+      "category": "Arroz",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Maiz En Grano Goya 15.25 Oz",
+      "price": "RD$108.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/166239/1-und-041331125567.jpg?v=639112077807800000",
+      "category": "Conserva vegetales & legumbres",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Ketchup Heinz 14 Oz",
+      "price": "RD$148.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/166042/1-und-013000000758.jpg?v=639112077035900000",
+      "category": "Ketchup",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Sal Refisal Refinada 500 Gr.",
+      "price": "RD$47.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/166347/1-und-7460743300288.jpg?v=639112078289900000",
+      "category": "Especias y Condimentos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Jugo Naranja Uht Rica 200 Ml",
+      "price": "RD$28.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/166208/1-und-7460111102568.jpg?v=639112077689770000",
+      "category": "Jugos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Pan Sandwich Pequeño Lumijor",
+      "price": "RD$109.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165606/1-und-7467502800041.jpg?v=639105963006230000",
+      "category": "Pan Molde",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Vinagre  Blanco Wala 16 Oz",
+      "price": "RD$24.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165434/1-und-2100003032201.jpg?v=639105870561970000",
+      "category": "Vinagres",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Galletas Saladitas Guarina 12 Uds.",
+      "price": "RD$56.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165349/1-und-051228637134.jpg?v=639105870239500000",
+      "category": "Galletas Saladas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Cafe Molido Pilon 200 Gr",
+      "price": "RD$170.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165362/1-und-748325001028.jpg?v=639105870282330000",
+      "category": "Café",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Harina De Trigo Wala 2 Lb",
+      "price": "RD$49.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165449/1-und-2100003106636.jpg?v=639105870634670000",
+      "category": "Harinas de trigo",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Papel Higienico Familia Aromax Grande 12 Rollos",
+      "price": "RD$340.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/164767/1-und-7702026016258.jpg?v=639105021860830000",
+      "category": "Papel Higiénico",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Queso Mozarella Danesa Arla Lb",
+      "price": "RD$310.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/164462/1-lb-09215.jpg?v=639104958157030000",
+      "category": "Quesos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Frutas Del Bosque Congelados Wala 450 G",
+      "price": "RD$189.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/164448/1-und-2100003227980.jpg?v=639104956694900000",
+      "category": "Frutas Congeladas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Tortilla Trigo Burrito Wala 8 Und",
+      "price": "RD$90.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/164086/1-und-2100003088239.jpg?v=639101496481330000",
+      "category": "Tortillas y Tostadas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Muslo Entero De Pollo Cibao Lb",
+      "price": "RD$77.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169668/1-lb-06006.webp?v=639124602009430000",
+      "category": "Carne de Pollo",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Carne #7 De Cerdo Impotada Lb",
+      "price": "RD$149.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/163848/1-lb-05438.png?v=639100926008970000",
+      "category": "Carne de Cerdo",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Chocolate Embajador 10/1 260 Gr",
+      "price": "RD$117.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/162949/1-und-764090024031.jpg?v=639100534242430000",
+      "category": "Chocolates",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Galletas Integral Multicereal Club Social 26 Gr",
+      "price": "RD$85.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/162912/1-und-7622210854209.jpg?v=639100534046970000",
+      "category": "Galleta Saludable",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Galletas De Soda Hatuey Regular 11.8 Oz.",
+      "price": "RD$89.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/162939/1-und-7467581603847.jpg?v=639100534179130000",
+      "category": "Galletas Sodas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Galletas De Soda Hatuey Regular 20 Unds",
+      "price": "RD$152.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/170372/1-und-7467581603274.webp?v=639130053014170000",
+      "category": "Galletas Sodas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Lentejas Giselle 400 Gr.",
+      "price": "RD$89.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165166/1-und-7465735600711.jpg?v=639105864836600000",
+      "category": "Arroz, Habichuelas y otros granos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Sal Marina Refisal Cristal Fino 510 Gr.",
+      "price": "RD$94.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/162555/1-und-7460743300295.jpg?v=639096342154870000",
+      "category": "Condimentos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Sopa Maggi Pollo Con Fideos 56 Gr",
+      "price": "RD$43.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/162571/1-und-7460123437313.jpg?v=639096342227900000",
+      "category": "Sopas y caldos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Café Pilónr 1 400 G",
+      "price": "RD$340.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165190/1-und-748325001035.jpg?v=639105864923100000",
+      "category": "Café",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Jugo Nectares Surtidos Santal 6/200 Ml",
+      "price": "RD$135.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/162216/1-und-7460199590677.jpg?v=639096240703830000",
+      "category": "Jugos y néctares",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Leche Entera Rica Listamilk Pet 1 Lt",
+      "price": "RD$78.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/162200/1-und-790330004501.jpg?v=639096240629230000",
+      "category": "Leche Líquida",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Chuleta De Cerdo Importada Lb",
+      "price": "RD$115.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161957/1-lb-05240.png?v=639096186009300000",
+      "category": "Carne de Cerdo",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Sandia Fresca Lb",
+      "price": "RD$30.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161950/1-lb-02062.png?v=639096183036900000",
+      "category": "Frutas Frescas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Paleta De Cerdo Importada Lb",
+      "price": "RD$119.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161954/1-lb-04320.png?v=639096183062170000",
+      "category": "Carne de Cerdo",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Auyama Taiwanesa Lb",
+      "price": "RD$29.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161952/1-lb-02218.png?v=639096183049730000",
+      "category": "Frutas y Vegetales",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Perejil Por Paquete",
+      "price": "RD$44.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161887/1-und-7468827171540.png?v=639096165544700000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Filete De Cerdo Importado Lb.",
+      "price": "RD$165.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161921/1-lb-05239.png?v=639096165765730000",
+      "category": "Carne de Cerdo",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Remolacha Fresca Lb",
+      "price": "RD$45.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161834/1-lb-02057.png?v=639096165202130000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Auyama Criolla Lb",
+      "price": "RD$29.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161858/1-lb-02012.png?v=639096165389870000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Coliflor Fresco Lb",
+      "price": "RD$62.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161832/1-lb-02025.png?v=639096165184070000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Chinola Lb",
+      "price": "RD$80.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161915/1-lb-02245.png?v=639096165731270000",
+      "category": "Frutas Frescas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Apio Fresco Lb",
+      "price": "RD$49.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161829/1-lb-02011.png?v=639096165153900000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Melon Cantaloupe Und",
+      "price": "RD$58.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/166619/1-und-02272.webp?v=639112632172170000",
+      "category": "Frutas Frescas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Espinaca Por Paquete",
+      "price": "RD$42.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161909/1-und-7467207940004.png?v=639096165703200000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Carne Molida Res 80/20 Lb",
+      "price": "RD$189.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161841/1-lb-05016.png?v=639096165253800000",
+      "category": "Carne de Res",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Filete De Salmon Wala  16 Onz",
+      "price": "RD$854.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161741/1-und-2100003152756.jpg?v=639095556371300000",
+      "category": "Carnes, pescados y mariscos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Cloro Macier 1 Galon",
+      "price": "RD$115.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/160963/1-und-7468178661011.jpg?v=639094584470000000",
+      "category": "Cloros y Desinfectantes",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Canela En Sobre Entera Wala  60 G",
+      "price": "RD$58.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/159540/1-und-2100003188649.jpg?v=639087835135430000",
+      "category": "Especias",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Azucar Refinada Wala 5 Lb",
+      "price": "RD$184.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/159680/1-und-2100003039828.jpg?v=639087835664830000",
+      "category": "Azúcar",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Aceite De Oliva Borges Virgen Extra 0.25 L",
+      "price": "RD$290.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/159296/1-und-8410179100050.jpg?v=639087834203670000",
+      "category": "Aceite Oliva",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Sazón Maggi Completo 280G",
+      "price": "RD$85.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/159625/1-und-7460123434404.jpg?v=639087835454970000",
+      "category": "Sazones",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Harina De Maiz Wala 14 Onz",
+      "price": "RD$17.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/159883/1-und-2100003191182.jpg?v=639088770200300000",
+      "category": "Harinas de maíz",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Jugo Rica 1/2 Gl, Fruit Punch",
+      "price": "RD$146.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157793/1-und-790330030029.webp?v=639072222507700000",
+      "category": "Jugos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Jabon Cuaba Zerca Liq 1 Gl",
+      "price": "RD$199.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157761/1-und-2100003109330.jpg?v=639072222373700000",
+      "category": "Jabones de Cuaba",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Detergente En Polvo Zerca 5 Libras",
+      "price": "RD$165.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157723/1-und-2100003098979.jpg?v=639072222217830000",
+      "category": "Detergente en Polvo",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Pilas Wala Alcalinas Aaa 4 Und",
+      "price": "RD$85.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157261/1-und-2100003290564.jpg?v=639070302083130000",
+      "category": "Pilas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Pasta Dental Colgate Anticaries 75 Ml 3 Pack",
+      "price": "RD$315.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157346/1-und-7460192003501.jpg?v=639070302438270000",
+      "category": "Cuidado Personal",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Jugo Rica 100% Naranja Sin Azúcar 32 OZ",
+      "price": "RD$147.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/170102/1-und-790330021126.webp?v=639125847010230000",
+      "category": "Jugos concentrados",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Café Molido Santo Domingo 1/2 Lb",
+      "price": "RD$209.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157415/1-und-748325000069.jpg?v=639070302744670000",
+      "category": "Café y Té",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Huevos Don Papito Grandes 30 Uds.",
+      "price": "RD$280.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157569/1-und-7462104206031.webp?v=639070303392870000",
+      "category": "Lácteos y Huevos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Tortilla Trigo Tradicional Wala 10 Und",
+      "price": "RD$68.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157556/1-und-2100003088215.jpg?v=639070303331370000",
+      "category": "Tortillas y Wraps",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Desinfectante Fabuloso Lavanda 1 Galón",
+      "price": "RD$345.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157358/1-und-099176131601.jpg?v=639070302491830000",
+      "category": "Cloros y Desinfectantes",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Mantequilla Sosua 0.5 Lb.",
+      "price": "RD$165.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157589/1-und-7466772500255.webp?v=639070303538400000",
+      "category": "Mantequilla y Margarina",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Mantequilla Sosua Pasteurizada C/Sal Barra 113G",
+      "price": "RD$99.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157592/1-und-7466772500224.webp?v=639070303553000000",
+      "category": "Mantequilla y Margarina",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Chocolate Munné 10/1",
+      "price": "RD$100.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157394/1-und-7468086901018.jpg?v=639070302656000000",
+      "category": "Chocolate en tabla y Cocoas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Leche Evaporada Carnation Lata 312 G",
+      "price": "RD$63.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/160261/1-und-7460123472024.jpg?v=639090402208100000",
+      "category": "Leche Condensada, Evaporada y otras leches",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Queso Parmesano Belgioioso We 5 Oz",
+      "price": "RD$275.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157599/1-und-031142523744.webp?v=639070303587000000",
+      "category": "Quesos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Lavaplatos Líquido Axion Limón 1.4L",
+      "price": "RD$298.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157420/1-und-7509546073651.jpg?v=639070302764300000",
+      "category": "Lavaplatos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Alas De Pollo Frescas Cibao Lb",
+      "price": "RD$115.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157211/1-lb-06001.jpg?v=639070245041770000",
+      "category": "Carne de Pollo",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Mantequilla Sosua Pasteurizada 1 Lb.",
+      "price": "RD$315.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157114/1-und-7466772500248.webp?v=639069615015200000",
+      "category": "Mantequilla y Margarina",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Jabon De Cuaba Liquido Wala 3 L",
+      "price": "RD$220.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/160853/1-und-2100003031327.jpg?v=639094582037530000",
+      "category": "Detergente Líquido",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Cafe Wala 400 Gr",
+      "price": "RD$330.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165280/1-und-2100002981128.jpg?v=639105867313870000",
+      "category": "Café",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Sazón Ricompleto Doña Gallina 200 Gr.",
+      "price": "RD$68.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165255/1-und-7702354250423.jpg?v=639105867223670000",
+      "category": "Sazones",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Cereal Wala Frosted Flakes Bolsa 1 Kg",
+      "price": "RD$195.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/163975/1-und-2100002980930.jpg?v=639101493128600000",
+      "category": "Cereales",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Atun En Trozos Wala Aceite 170 Gr",
+      "price": "RD$98.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/159438/1-und-2100002979897.jpg?v=639087834763570000",
+      "category": "Conservas de pescado & marisco",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Pan Wala Hot Dog 400 G 8/1",
+      "price": "RD$69.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165530/1-und-2100002979798.jpg?v=639105957059970000",
+      "category": "Panadería y Repostería",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Funda Tanque Negra Paq Zerca 5 Un",
+      "price": "RD$49.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/164604/1-und-2100002978500.jpg?v=639105019261030000",
+      "category": "Fundas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Detergente Liquido Original Wala 3 L",
+      "price": "RD$220.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/164566/1-und-2100002978197.jpg?v=639105018990200000",
+      "category": "Detergente Líquido",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Funda Mano Negra Paq Zerca 25 Un",
+      "price": "RD$49.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/164591/1-und-2100002978487.jpg?v=639105019159730000",
+      "category": "Fundas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Papas Fritas Congeladas Wala  2.2 Lbs/1Kg",
+      "price": "RD$168.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157022/1-und-2100003140197.jpg?v=639065952006370000",
+      "category": "Papas Congeladas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Jamón Caserio Pechuga De Pollo Lb. (Rebanado)",
+      "price": "RD$295.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/156958/1-lb-08284.jpg?v=639065904054470000",
+      "category": "Jamones",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Huevos Endy Marrones 30 Uds",
+      "price": "RD$329.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/156787/1-und-7468707680292.jpg?v=639065844008000000",
+      "category": "Lácteos y Huevos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Huevos Endy Frescos Cartón 12/1",
+      "price": "RD$129.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/156780/1-und-7468707680636.jpg?v=639065841018630000",
+      "category": "Lácteos y Huevos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Yogurt Yoka Fresa-Guineo Bebible 8 Oz",
+      "price": "RD$47.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/156739/1-und-7460199565071.jpg?v=639065832031730000",
+      "category": "Bebibles",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Yogurt Yoka Fresa Bebible 8 Oz",
+      "price": "RD$47.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/156738/1-und-7460199565019.jpg?v=639065832028430000",
+      "category": "Bebibles",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Queso cheddar Yokesso importado lb",
+      "price": "RD$290.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/156502/1-lb-09353.jpg?v=639064482234600000",
+      "category": "Quesos y Embutidos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Yogurt Yoplait Griego Fresa 150G",
+      "price": "RD$100.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/156594/1-und-7466772506431.jpg?v=639064482594130000",
+      "category": "Griegos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Combo Induveca Salami Se 2.25L+Jamoneta 2Lb",
+      "price": "RD$416.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/156481/1-und-7460199570402.jpg?v=639064482154600000",
+      "category": "Salami",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Tocineta Rebanada Chef Paq 8 Oz.",
+      "price": "RD$219.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/156438/1-und-7463599566082.jpg?v=639064479479370000",
+      "category": "Tocineta",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Salchicha Emilios Jumbo Hot Dog Original 8/1",
+      "price": "RD$165.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/156437/1-und-7463599566006.jpg?v=639064479471300000",
+      "category": "Salchichas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Queso De Freir Sosua Paq. 1Lb",
+      "price": "RD$191.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/156173/1-und-7466772500156.jpg?v=639060237016030000",
+      "category": "Quesos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Leche Evaporada Carnation Uht 290 Ml",
+      "price": "RD$62.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157233/1-und-7460123472215.jpg?v=639070299027000000",
+      "category": "Leche Condensada, Evaporada y otras leches",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Casabe Triangular Wala Albahaca 11 Oz",
+      "price": "RD$99.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/155641/1-und-2100003297181.webp?v=639052536024100000",
+      "category": "Casabe",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Tomates Pelados Troceados Wala 400 Gr",
+      "price": "RD$58.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/155610/1-und-2100003250957.jpg?v=639052509015770000",
+      "category": "Conserva vegetales & legumbres",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Jamón Caserio Cocido Lb.",
+      "price": "RD$325.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/156240/1-lb-09528.jpg?v=639062079012200000",
+      "category": "Jamones",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Guandules Verdes Wala 15Oz",
+      "price": "RD$84.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/155593/1-und-2100003332295.webp?v=639044757008330000",
+      "category": "Arroz, Habichuelas y otros granos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Bebida Energizante Wala 250Ml",
+      "price": "RD$69.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/155801/1-und-2100003295316.jpg?v=639059028034470000",
+      "category": "Energizantes",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Azucar Refinada Wala 2 Lb",
+      "price": "RD$79.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/155785/1-und-2100003039804.jpg?v=639059022011070000",
+      "category": "Azúcar",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Lentejas Wala 800 Gr",
+      "price": "RD$114.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/155763/1-und-2100002980107.jpg?v=639059016034570000",
+      "category": "Arroz, Habichuelas y otros granos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Habichuela Negra Wala 800 Gr",
+      "price": "RD$105.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/155762/1-und-2100002980060.jpg?v=639059016030330000",
+      "category": "Habichuelas",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Jamon Cocido Chef Picnic 0.75",
+      "price": "RD$165.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/155577/1-und-7463599501724.webp?v=639044646011030000",
+      "category": "Jamones",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Malta Morena Lata 8 Oz",
+      "price": "RD$39.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/157664/1-und-74604272.jpg?v=639070362012300000",
+      "category": "Malta",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Refresco Coca Cola Clásica 2 Lt",
+      "price": "RD$85.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/160254/1-und-049000081428.jpg?v=639090402155170000",
+      "category": "Refrescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Tomate Cherry Lucas Perez Paquete",
+      "price": "RD$95.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/170026/1-und-7463521667177.jpg?v=639125688192700000",
+      "category": "Vegetales Frescos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Bizcocho Aro Con Piña Buenhorno 433 G.",
+      "price": "RD$160.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169918/1-und-2050000160622.webp?v=639125067022830000",
+      "category": "Bizcochos y cup cakes",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Cupcake Buenhorno Vainilla 6/1",
+      "price": "RD$99.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169824/1-und-2050000179693.webp?v=639125004664670000",
+      "category": "Bizcochos y cup cakes",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Suaper Fibra #32 Wala 250 G",
+      "price": "RD$239.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169654/1-und-2100003193407.webp?v=639124227011230000",
+      "category": "Utensilios de limpieza",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Nachos Tostitos Santa Elena 430Gr",
+      "price": "RD$220.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169429/1-und-7460496805320.webp?v=639122382049130000",
+      "category": "Nachos y hojuelas de maíz",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Salami Extra Premium Del Artesano 1 Lb",
+      "price": "RD$195.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169387/1-und-2100003037473.webp?v=639121734107000000",
+      "category": "Salami",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Sal Refinada Wala 2 Libras",
+      "price": "RD$35.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169348/1-und-2100002986888.webp?v=639121728013300000",
+      "category": "Especias",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Yogurt Fresa Bebible Yopli 150 gr",
+      "price": "RD$42.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169346/1-und-7466772505779.webp?v=639121725015770000",
+      "category": "Bebibles",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Sal Refinada Wala  5 Lb",
+      "price": "RD$165.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169291/1-und-2100002986901.webp?v=639120837057030000",
+      "category": "Condimentos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Oregano Molido Frasco Wala  3 Oz",
+      "price": "RD$92.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169175/1-und-2100002986864.webp?v=639120828578030000",
+      "category": "Especias",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Mani Japones Wala 300 G",
+      "price": "RD$210.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169169/1-und-2100002985157.webp?v=639120828553300000",
+      "category": "Semillas y Frutos Secos",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Pan Croissant Jamon Y Queso Buenhorno.",
+      "price": "RD$40.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169022/1-und-2050000382765.webp?v=639120714015700000",
+      "category": "Panadería y Repostería",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Harina De Trigo Blanquita 5 Lb",
+      "price": "RD$235.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/168875/1-und-7467581601058.jpg?v=639120712730130000",
+      "category": "Harinas de trigo",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Leche Rica Semidescremada Sin Lactosa 2% Grasa 1 Lt",
+      "price": "RD$84.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/168867/1-und-7460111104081.jpg?v=639120712690630000",
+      "category": "Leche Líquida",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Atún Trozos En Agua Brunswick 142 G",
+      "price": "RD$105.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/168859/1-und-066613328023.jpg?v=639120712651500000",
+      "category": "Conservas de pescado & marisco",
+      "store": "La Sirena"
+    }
+  ]
+}
