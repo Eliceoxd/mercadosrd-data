@@ -1,6 +1,6 @@
 {
   "source": "La Sirena",
-  "total": 5999,
+  "total": 6001,
   "products": [
     {
       "name": "Bebida Energizante 911 400 Ml",
@@ -654,6 +654,15 @@
       "name": "Ambientador Aerosol Glade Dewdrop Petal 7.3 Oz",
       "price": "RD$215.00",
       "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/170106/1-und-046500052835.webp?v=639125865022800000",
+      "category": "Limpieza y desechables",
+      "subCategory": "Aromatizadores y deshumificadores",
+      "brand": "GLADE",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Ambientador Glade Aerosol Clean Linen 8 oz",
+      "price": "RD$215.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165513/1-und-197981004742.webp?v=639105936006770000",
       "category": "Limpieza y desechables",
       "subCategory": "Aromatizadores y deshumificadores",
       "brand": "GLADE",
@@ -25068,6 +25077,15 @@
       "store": "La Sirena"
     },
     {
+      "name": "Salsa Bolonesa El Corte Ingles 300 G",
+      "price": "RD$215.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169411/1-und-8433329136648.webp?v=639121734191970000",
+      "category": "Despensa",
+      "subCategory": "Salsas",
+      "brand": "EL CORTE INGLES",
+      "store": "La Sirena"
+    },
+    {
       "name": "Galletas El Corte Ingles Wafers Mix 400G",
       "price": "RD$400.00",
       "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/169249/1-und-8433329103565.webp?v=639120828913770000",
@@ -49449,15 +49467,6 @@
       "store": "La Sirena"
     },
     {
-      "name": "Pan Blanco Suave Bolin Mini Club",
-      "price": "RD$115.00",
-      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165553/1-und-7465073110132.jpg?v=639105960095630000",
-      "category": "Panadería y repostería",
-      "subCategory": "Pan integral",
-      "brand": "BOLIN",
-      "store": "La Sirena"
-    },
-    {
       "name": "Pan De Viga Bolin Alto Proteina Mediano",
       "price": "RD$150.00",
       "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165547/1-und-7465073110019.jpg?v=639105960072900000",
@@ -49508,6 +49517,15 @@
       "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/161716/1-und-7465073110088.jpg?v=639095556253270000",
       "category": "Panadería y repostería",
       "subCategory": "Pan artesanal",
+      "brand": "BOLIN",
+      "store": "La Sirena"
+    },
+    {
+      "name": "Pan Blanco Suave Bolin Mini Club",
+      "price": "RD$115.00",
+      "imageUrl": "https://gruporamos.vteximg.com.br/arquivos/ids/165553/1-und-7465073110132.jpg?v=639105960095630000",
+      "category": "Panadería y repostería",
+      "subCategory": "Pan integral",
       "brand": "BOLIN",
       "store": "La Sirena"
     },
